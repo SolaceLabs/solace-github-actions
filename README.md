@@ -1,25 +1,11 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-# Project Title
+# Solace Github Plugin
+This repo shows how to use github workflows to interact with the event portal in a CI/CD environment. For more details on what is required from each workflow check the comments in the respected file.
 
-## Overview
-This project is ...
-
-## Getting started quickly
-1. Step 1
-1. Step 2
-1. Step 3
-
-## Documentation
-Details about the what why and how of this project. Either refer to external documentations or document in this repo
-
-## Resources
-This is not an officially supported Solace product.
-
-For more information try these resources:
-- Ask the [Solace Community](https://solace.community)
-- The Solace Developer Portal website at: https://solace.dev
-
+To see these workflows in action, check out the following demo repos
+- Application repo: [Point of Sale System](https://github.com/TamimiGitHub/pos-system)
+- Infrastructure repo: [Infra-us-east](https://github.com/TamimiGitHub/infra-us-east)
 
 ## Contributing
 Contributions are encouraged! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
